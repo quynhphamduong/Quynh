@@ -1,5 +1,5 @@
 def password_check():
-    correct_password = "securepassword"  # Set your correct password here
+    correct_password = "quynhpham"
     max_attempts = 5
 
     for attempt in range(1, max_attempts + 1):
